@@ -11,5 +11,5 @@ new Vue({
   el: '#page5',
   router,
   components: { Main5 },
-  template: '<App5/>'
+  template: '<Main5/>'
 })
